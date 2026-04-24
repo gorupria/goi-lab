@@ -1,0 +1,85 @@
+[
+  {
+    "word": "tulla",
+    "meanings": [
+      {
+        "translation": "to come",
+        "examples": [
+          {
+            "sentence": "Tulen huomenna.",
+            "translation": "I will come tomorrow."
+          },
+          {
+            "sentence": "Hän tulee kotiin.",
+            "translation": "He/She is coming home."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mennä",
+    "meanings": [
+      {
+        "translation": "to go",
+        "examples": [
+          {
+            "sentence": "Menen kouluun.",
+            "translation": "I go to school."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "olla",
+    "meanings": [
+      {
+        "translation": "to be",
+        "examples": [
+          {
+            "sentence": "Minä olen kotona.",
+            "translation": "I am at home."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sanoa",
+    "meanings": [
+      {
+        "translation": "to say",
+        "examples": [
+          {
+            "sentence": "Hän sanoo totuuden.",
+            "translation": "He/She tells the truth."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tehdä",
+    "meanings": [
+      {
+        "translation": "to do",
+        "examples": [
+          {
+            "sentence": "Mitä teet?",
+            "translation": "What are you doing?"
+          }
+        ]
+      },
+      {
+        "translation": "to make",
+        "examples": [
+          {
+            "sentence": "Teen ruokaa.",
+            "translation": "I am making food."
+          }
+        ]
+      }
+    ]
+  }
+]
