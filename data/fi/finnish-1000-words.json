@@ -86,5 +86,20 @@
         ]
       }
     ]
+  },
+  {
+    "id": 6,
+    "word": "korkea",
+    "meanings": [
+      {
+        "translation": "high",
+        "examples": [
+	  {
+	    "sentence": "Vuori on korkea.",
+	    "translation": "The mountain is high."
+	  }
+        ]
+      }
+    ]
   }
 ]
